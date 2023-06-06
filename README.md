@@ -1,8 +1,8 @@
-# MakerZine  Go / Golang
-Repositório com os programas em Go / Golang, postados no MakerZine
-Os arquivos abaixo, se encontram organizados em uma <strong>sequência didática</strong>, ou trilha de conhecimento, com o objetivo de fornecer uma progressão suavizada no aprendizado de <strong>Go / Golang</strong>.
+# MakerZine  -> Go / Golang
+<p>Repositório com os programas em Go / Golang, postados no MakerZine.</p>
+<p>Os arquivos abaixo, se encontram organizados em uma <strong>sequência didática</strong>, ou trilha de conhecimento, com o objetivo de fornecer uma progressão suavizada no aprendizado de <strong>Go / Golang</strong>.</p>
 
-<span style="text-decoration: underline;"><em><a href="https://www.linkedin.com/in/rodrigo-rissetto-terra/" target="_blank" rel="nofollow noopener noreferrer">Rodrigo Terra</a></em></span> e <a href="https://www.makerzine.com.br" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>MakerZine</em></span></a>. 
+<p><span style="text-decoration: underline;"><em><a href="https://www.linkedin.com/in/rodrigo-rissetto-terra/" target="_blank" rel="nofollow noopener noreferrer">Rodrigo Terra</a></em></span> e <a href="https://www.makerzine.com.br" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>MakerZine</em></span></a>. </p>
 
 &nbsp;
 <ol>
