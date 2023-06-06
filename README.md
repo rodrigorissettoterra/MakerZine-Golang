@@ -1,4 +1,4 @@
-# MakerZine-Golang
+# MakerZine  Go / Golang
 Repositório com os programas em Go / Golang, postados no MakerZine
 Os arquivos abaixo, se encontram organizados em uma <strong>sequência didática</strong>, ou trilha de conhecimento, com o objetivo de fornecer uma progressão suavizada no aprendizado de <strong>Go / Golang</strong>.
 
